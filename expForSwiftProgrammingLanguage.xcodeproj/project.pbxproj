@@ -34,6 +34,10 @@
 		B30861D1199A10E000B82118 /* expForSwiftProgrammingLanguageTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = expForSwiftProgrammingLanguageTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		B30861D6199A10E000B82118 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		B30861D7199A10E000B82118 /* expForSwiftProgrammingLanguageTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = expForSwiftProgrammingLanguageTests.swift; sourceTree = "<group>"; };
+		B30861E1199A14B000B82118 /* ClassAndClosure.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = ClassAndClosure.playground; sourceTree = "<group>"; };
+		B3BFC6E6199A6A7700898CB6 /* Optional.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Optional.playground; sourceTree = "<group>"; };
+		B3BFC6E7199A6AA500898CB6 /* Switch.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Switch.playground; sourceTree = "<group>"; };
+		B3BFC6E8199A6BAB00898CB6 /* FunctionArrayTuple.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = FunctionArrayTuple.playground; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +61,10 @@
 		B30861B6199A10DF00B82118 = {
 			isa = PBXGroup;
 			children = (
+				B3BFC6E8199A6BAB00898CB6 /* FunctionArrayTuple.playground */,
+				B3BFC6E7199A6AA500898CB6 /* Switch.playground */,
+				B3BFC6E6199A6A7700898CB6 /* Optional.playground */,
+				B30861E1199A14B000B82118 /* ClassAndClosure.playground */,
 				B30861C1199A10DF00B82118 /* expForSwiftProgrammingLanguage */,
 				B30861D4199A10E000B82118 /* expForSwiftProgrammingLanguageTests */,
 				B30861C0199A10DF00B82118 /* Products */,
@@ -395,6 +403,7 @@
 				B30861DD199A10E000B82118 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		B30861DE199A10E000B82118 /* Build configuration list for PBXNativeTarget "expForSwiftProgrammingLanguageTests" */ = {
 			isa = XCConfigurationList;
@@ -403,6 +412,7 @@
 				B30861E0199A10E000B82118 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
