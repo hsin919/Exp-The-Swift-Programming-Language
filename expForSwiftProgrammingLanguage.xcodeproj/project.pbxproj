@@ -36,6 +36,8 @@
 		B30861D7199A10E000B82118 /* expForSwiftProgrammingLanguageTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = expForSwiftProgrammingLanguageTests.swift; sourceTree = "<group>"; };
 		B30861E1199A14B000B82118 /* ClassAndClosure.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = ClassAndClosure.playground; sourceTree = "<group>"; };
 		B3338648199CA25C005FABA8 /* forloop.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = forloop.playground; sourceTree = "<group>"; };
+		B3338649199D0771005FABA8 /* protocal.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = protocal.playground; sourceTree = "<group>"; };
+		B333864A199D0ED2005FABA8 /* extension.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = extension.playground; sourceTree = "<group>"; };
 		B3BFC6E6199A6A7700898CB6 /* Optional.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Optional.playground; sourceTree = "<group>"; };
 		B3BFC6E7199A6AA500898CB6 /* Switch.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Switch.playground; sourceTree = "<group>"; };
 		B3BFC6E8199A6BAB00898CB6 /* FunctionArrayTuple.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = FunctionArrayTuple.playground; sourceTree = "<group>"; };
@@ -63,6 +65,8 @@
 		B30861B6199A10DF00B82118 = {
 			isa = PBXGroup;
 			children = (
+				B333864A199D0ED2005FABA8 /* extension.playground */,
+				B3338649199D0771005FABA8 /* protocal.playground */,
 				B3338648199CA25C005FABA8 /* forloop.playground */,
 				B3BFC6E9199A6D4800898CB6 /* enum.playground */,
 				B3BFC6E8199A6BAB00898CB6 /* FunctionArrayTuple.playground */,
