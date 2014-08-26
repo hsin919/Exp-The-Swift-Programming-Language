@@ -9,7 +9,6 @@ var optionalName: String? = "test"
 
 let tt = optionalName?.hasPrefix("test")
 
-
 if let name = optionalName?.hasPrefix("test") {
     println("name = \(name)")
 } else {
