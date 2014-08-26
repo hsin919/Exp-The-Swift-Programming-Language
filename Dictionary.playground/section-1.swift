@@ -2,4 +2,8 @@
 
 import UIKit
 
-var str = "Hello, playground"
+var emptyDictionary = Dictionary<String, Int>()
+
+emptyDictionary["one"] = 1
+
+println(emptyDictionary)
