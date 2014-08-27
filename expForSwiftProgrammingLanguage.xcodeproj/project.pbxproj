@@ -35,6 +35,7 @@
 		B30861D6199A10E000B82118 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		B30861D7199A10E000B82118 /* expForSwiftProgrammingLanguageTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = expForSwiftProgrammingLanguageTests.swift; sourceTree = "<group>"; };
 		B30861E1199A14B000B82118 /* ClassAndClosure.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = ClassAndClosure.playground; sourceTree = "<group>"; };
+		B313121E19ADE61200C576F4 /* ControlTransfer.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = ControlTransfer.playground; sourceTree = "<group>"; };
 		B330D5A519AC923C00C07B75 /* Array.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Array.playground; sourceTree = "<group>"; };
 		B3338648199CA25C005FABA8 /* forloop.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = forloop.playground; sourceTree = "<group>"; };
 		B3338649199D0771005FABA8 /* protocal.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = protocal.playground; sourceTree = "<group>"; };
@@ -68,6 +69,7 @@
 		B30861B6199A10DF00B82118 = {
 			isa = PBXGroup;
 			children = (
+				B313121E19ADE61200C576F4 /* ControlTransfer.playground */,
 				B330D5A519AC923C00C07B75 /* Array.playground */,
 				B3B65FDE19A43FE60025357B /* Dictionary.playground */,
 				B3B0806A19A39FE100B12795 /* String.playground */,
