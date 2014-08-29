@@ -14,3 +14,13 @@ if let name = optionalName?.hasPrefix("test") {
 } else {
     println("optionalName: \(optionalName) has not prefix test")
 }
+
+var intString :String? = nil//"1" // test nil here
+
+if(intString != nil)
+{
+    intString!.toInt() // force unwrap
+}
+
+var label: Int? = intString?.toInt()
+

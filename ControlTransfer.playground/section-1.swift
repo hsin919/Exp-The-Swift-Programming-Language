@@ -43,7 +43,7 @@ if let integerValue = possibleIntegerValue {
 var step = 0
 let maxcount = 100
 let luckyWin = 7
-countLoop: while step < maxcount {  
+countLoop: while step < maxcount {
     switch step {
     case 7:
         break countLoop // if the break statement above did not use the countLoop label, it would break out of the switch statement, not the while statement.
